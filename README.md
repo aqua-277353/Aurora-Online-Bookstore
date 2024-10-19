@@ -23,8 +23,8 @@
   * **Giảng viên**: Tạ Việt Phương
   
   ## ĐỒ ÁN CUỐI KÌ
-  - Front-end: HTML, CSS, Javascript, VueJS, Laravel.
-  - Back-end: Laravel, MySQL.
+  - Front-end: HTML, CSS, Javascript, ReactJS, Boostrap.
+  - Back-end: PHP, Laravel, MySQL.
   - File report: [Final Report.](Final_Project/Final_Report.pdf)
   - Source Code and Installation Instructions: [Source Code](https://github.com/aqua-277353/Aurora-Online-Bookstore)
   <p align='center'><img style="height: 800px" src="https://github.com/aqua-277353/Aurora-Online-Bookstore/blob/main/img/Screenshot%202024-10-17%20182021.png"></p>
